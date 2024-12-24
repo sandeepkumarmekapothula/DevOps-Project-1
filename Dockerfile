@@ -1,1 +1,1 @@
-from centos:7
+FROM tomcat:latest
